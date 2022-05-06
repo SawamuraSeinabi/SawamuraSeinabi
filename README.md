@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, this is [Seinabi](https://github.com/SawamuraSeinabi/)👋
+🏫 Major 18ME@SJTU and minor 18MUSICOLOGY@SJTU
+
+📖 Have done something in diesel combustion carbon soot particles and now doing some battery research.
+
+🚀 Cause my main research is based on ME, coding is just a tool aid for my research.
+
+🤔 Hope to study for a master's degree, but have not decided where.Just keep studying and hungry.
+### 👾MY STATS
+
+[![Seinabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SawamuraSeinabi&show_icons=true&theme=tokyonight)](https://github.com/SawamuraSeinabi/github-readme-stats)
 
 <!--
 **SawamuraSeinabi/SawamuraSeinabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
