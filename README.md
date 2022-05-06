@@ -1,9 +1,9 @@
 ### Hi there, this is [Seinabi](https://github.com/SawamuraSeinabi/)👋
 🏫 Major 18ME@SJTU and minor 18MUSICOLOGY@SJTU
 
-📖 Have done something in diesel combustion carbon soot particles and now doing some battery research.
+📖 Have done something in diesel combustion carbon soot particles and now doing some battery life prediction research.
 
-🚀 Cause my main research is based on ME, coding is just a tool aid for my research.
+🚀 Cause my main research is based on ME, coding is just an aid to my research.
 
 🤔 Hope to study for a master's degree, but have not decided where.Just keep studying and hungry.
 ### 👾MY STATS
